@@ -132,8 +132,7 @@ BuildRequires:  pkgconfig(libva) >= 0.38.0
 BuildRequires:  pkgconfig(libomxil-bellagio)
 %endif
 BuildRequires:  pkgconfig(libelf)
-BuildRequires:  llvm-devel == 17.0.6
-#BuildRequires:  llvm-devel >= 7.0.0
+BuildRequires:  llvm-devel >= 7.0.0
 %if %{with valgrind}
 BuildRequires:  pkgconfig(valgrind)
 %endif
