@@ -23,6 +23,8 @@
  * next paragraph) shall be included in all copies or substantial portions
  * of the Software.
  *
+ * Copyright 2014 Advanced Micro Devices, Inc.
+ * SPDX-License-Identifier: MIT
  **************************************************************************/
 
 
